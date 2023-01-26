@@ -6,4 +6,4 @@
 # О программе
 Программа была разработана на языке Pyton 3.10 (интегрированная среда - IDLE Python)
 # Скриншот выполнения программы
-![image](https://user-images.githubusercontent.com/122468979/214762947-ea4989b4-73a5-4394-a1f8-c07eacf732cb.png)
+![image](https://user-images.githubusercontent.com/122468979/214763316-d0059819-bc74-4690-8ee5-6b5ebd99025b.png)
